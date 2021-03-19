@@ -1721,3 +1721,7 @@ section {
   text-align: center;
   font-size: 13px;
 }
+
+.gotcha {
+  display: none;
+}
